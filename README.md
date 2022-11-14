@@ -1,5 +1,7 @@
-# data_methods_stats
-# Main Page (currently data files of all types)
-# Branches are for statistical and machine learning methods code designated R and Python
+##  data_methods_stats  
+## Main Page (currently data files of all types)  
 
-https://github.com/bbe2/data_methods_stats/branches
+Branches:  
+statistical methods - https://github.com/bbe2/data_methods_stats/tree/statistics  
+machine learning (pending)
+
