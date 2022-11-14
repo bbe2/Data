@@ -1,7 +1,7 @@
-##  data_methods_stats  
-## Main Page (currently data files of all types)  
+## data_methods_stats Main  
+### Various data files  
 
-Branches:  
+### Branches:  
 statistical methods - https://github.com/bbe2/data_methods_stats/tree/statistics  
-machine learning (pending)
+machine learning (pending)  
 
