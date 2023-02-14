@@ -1,12 +1,2 @@
-## data_methods_stats Main  
 
-statistical methods - https://github.com/bbe2/data_methods_stats/tree/statistics  
-machine learning (pending)  
-
-
-##Data Links
-mit.shakespeare.raw.text___https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
-
-![babbage](https://user-images.githubusercontent.com/59778456/217523688-f6d37afc-3479-458d-982f-25f8ed8c39ee.jpeg)
-
-
+![federalist](https://user-images.githubusercontent.com/59778456/218879611-7be67dab-332c-46ff-9d10-0ddd8e4a031a.PNG)
